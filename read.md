@@ -1,0 +1,13 @@
+selecting elements
+document.documentELement
+document.head
+document.body
+document.querySelector
+document.querySelectorAll
+document.getElementById
+document.getElementsByTagName
+document.getElementsbyClassName
+
+
+//creatinga inserting elements
+document.createElement
